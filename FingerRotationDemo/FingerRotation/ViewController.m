@@ -22,8 +22,6 @@
     
     [super viewDidLoad];
     
-    /// ceshi 
-    
     SPDrawView *view = [[SPDrawView alloc] initWithFrame:CGRectMake(0, 0, SW, SH)];
     
     view.backgroundColor = [UIColor whiteColor];
